@@ -7,7 +7,7 @@ import datetime
 
 project_id = 'time-tracker-27c0c'
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="time-tracker-27c0c-firebase-adminsdk-xri0q-b00058a0b6.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="time-tracker-admin.json"
 
 # Use the application default credentials
 cred = credentials.ApplicationDefault()
